@@ -1,5 +1,4 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+
 # SocketIoSample
 ## _socket.io with coroutines, lifecycles ktx, viewModels_
 
