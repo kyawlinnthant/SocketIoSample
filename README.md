@@ -4,8 +4,8 @@
 
 >We can Inject socket in viewModel by constructor injection.
 >We're already implemented HILT in our project.
->Initialization of Socket will be done by HILT or by Singleton **SocketHandler** as I wrote in this repo.
->If you want to inject Socket, just provides the following variable in your **Hilt Module** 
+>Initialization of Socket will be done by HILT or by Singleton **_SocketHandler_** as I wrote in this repo.
+>If you want to inject Socket, just provides the following variable in your **_Hilt Module_** 
 
     @Provides
     @Singleton
